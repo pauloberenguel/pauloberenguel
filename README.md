@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **SQL, VB.net, Excel and BI**
 
-- 📄 Know about my experiences [linkedin.com/paulo-berenguel](linkedin.com/paulo-berenguel)
+- 📄 Know about my experiences [https://www.linkedin.com/in/paulo-berenguel/](https://www.linkedin.com/in/paulo-berenguel/)
 
 - ⚡ Fun fact **I'm a hobbist electronic music producer, having done some gigs dj'ing**
 
