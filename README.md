@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Berenguel</h1>
-<h3 align="center">A passionate data engineer from Brazil</h3>
+<h3 align="center">A passionate engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloberenguel&label=Profile%20views&color=75c1f0&style=plastic" alt="pauloberenguel" /> </p>
 
